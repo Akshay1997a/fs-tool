@@ -23,7 +23,6 @@
       "editor/context": [
         {
           "command": "filer.openBrowse",
-          "alt": "Open",
           "group": "1_modification"
         }
       ]
